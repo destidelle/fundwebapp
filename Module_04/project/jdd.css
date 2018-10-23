@@ -1,0 +1,138 @@
+.header {
+		width: 1675px;
+		padding: 10px;
+}
+h1 {
+	font-family: 'Shadows Into Light', cursive;
+	font-size: 72pt;
+	color: black;
+	font-weight: lighter;
+	text-align: center;
+	line-height: 0;
+	-webkit-text-stroke: 1px white;
+
+}
+h3 {
+	text-indent: 200px;
+	font-family: 'Shadows Into Light', cursive;
+	font-size: 30pt;
+	color: black;
+	font-weight: lighter;
+	text-align: center;
+	line-height: 0;
+	-webkit-text-stroke: .40px white;
+}
+body {
+	background: #004d4d;
+
+}
+.box {
+	line-height: 1;
+	width: 1375px;
+	padding: 10px;
+	border: 3px dashed #D3D3D3;
+	border-radius: 15px;
+	margin: 20px auto;
+}
+#content {
+	width: 1400px;
+    margin: 0 auto;
+	padding: 0px;
+	border-radius: 5px;
+	background-color: rgb(105,105,105);
+	opacity: 0.9;
+}
+p {
+	font-family: 'Handlee', cursive;
+	font-size: 26pt;
+	text-align: center;
+	font-weight: normal;
+	color: 	#A9A9A9;
+		line-height: 1;
+}
+#para {
+	text-align: center;
+}
+#routes {
+	text-align: center;
+}
+.center {
+	display: block;
+  margin: 0 auto;
+}
+.edge {
+	border-radius: 15px;
+}
+.nav {
+	font-family: 'Handlee', cursive;
+	font-weight: bolder;
+	margin: 0 auto;
+	padding: 0 auto;
+	align-items: center;
+	width: 630px;
+}
+h4 {
+	text-align: center;
+	font-family: 'Handlee', cursive;
+	font-size: 15pt;
+	color: #A9A9A9;
+	font-weight: lighter;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+	}
+
+	li {
+	    float: left;
+			color: #A9A9A9;
+	}
+
+	li a {
+	    display: block;
+	    text-align: center;
+	    padding: 8px 16px;
+	    width: auto;
+	    text-decoration: none;
+	    font-size: 25px;
+			color: black;
+	}
+
+	li a:hover {
+	    background-color: #D3D3D3;
+	}
+
+	a {
+		color: #A9A9A9;
+		text-decoration: none;
+	}
+
+	/* php styling */
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+		font-family: 'Handlee', cursive;
+		font-size: 26pt;
+		color: 	#A9A9A9;
+		font-weight: lighter;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+		text-align: center;
+    padding: 0px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+		padding: 0px;
+}
+
+#footer {
+	line-height: .5;
+	width: 1675px;
+	padding: 0px;
+}
