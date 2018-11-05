@@ -12,9 +12,11 @@ routes.php
 aboutus.html
 employment.html
 contactus.html
+readme.md
+Wiki
 
 #Installation Instructions:
-Installation not required. 
+Install an FTP client (such as FileZilla). Connect to host through site manager. Upload documents to FTP client and retreieve online through URL. 
 
 #Usage:
 This website should be used for the intent in which it was created: informational use only. The Home page is used to inform the audience of what our company is as an ice breaker. The Routes page is to inform our audience what our more common routes are and how long they take, how many miles they are. The About Us page is to inform our audience of who the owners are and what experience we have. The Employment page is to offer new-coming drivers the ability to download the application to send back to us once filled out. The Contact Us page is used to offer our audience a means of communication with us, in the event they need to reach us. 
